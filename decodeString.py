@@ -1,5 +1,5 @@
-# Time Complexity : O(n), where n is the length of the input string s.
-# Space Complexity : O(n), because we are using a stack to store the numbers and strings.
+# Time Complexity : O(k*n), where n is the length of the input string s, and k is the maximum number of times a substring can be repeated.
+# Space Complexity : O(k*n), where n is the length of the input string s, and k is the maximum number of times a substring can be repeated.
 # Did this code successfully run on Leetcode : Yes
 # Any problem you faced while coding this : No
 
